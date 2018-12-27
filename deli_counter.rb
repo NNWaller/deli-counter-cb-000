@@ -13,5 +13,5 @@ end
 def take_a_number(array, element)
   array << element
   place_in_line = array.index(element)+1
-  puts "Welcome, #{element}. You are #{place_in_line} in line."
+  puts "Welcome, #{element}. You are number #{place_in_line} in line."
 end
