@@ -12,4 +12,5 @@ end
 
 def take_a_number(array, element)
   array << element
+  
 end
