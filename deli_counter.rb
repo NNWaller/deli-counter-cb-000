@@ -17,7 +17,8 @@ def take_a_number(array, element)
 end
 
 def now_serving(array)
- if 
+ if array.length >= 1
+   
  elsif array = []
   puts "There is nobody waiting to be served!"
  end
